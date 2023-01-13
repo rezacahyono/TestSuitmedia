@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="root_padding">16dp</dimen>
+    <dimen name="large_padding">32dp</dimen>
+    
+    <dimen name="size_distance_edt_to_image">51dp</dimen>
+    <dimen name="size_distance_edt">22dp</dimen>
+    <dimen name="size_height_edt">48dp</dimen>
+
+    <dimen name="size_distance_btn_to_edt">47dp</dimen>
+
+    <dimen name="radius_rounded_small">12dp</dimen>
+
+    <dimen name="size_image_user">49dp</dimen>
+</resources>

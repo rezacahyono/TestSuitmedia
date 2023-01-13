@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">TestSuitmedia</string>
+
+    <string name="desc_image_profile">Image profile</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+
+    <string name="message_text_field_empty">%s can\'t empty</string>
+
+    <string name="result">Result</string>
+    <string name="message_is_palindrome">\"%s\" is palindrome!</string>
+    <string name="message_is_not_palindrome">\"%s\" not palindrome!</string>
+    <string name="back">Back</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="selected_user_name">Selected User Name</string>
 </resources>
